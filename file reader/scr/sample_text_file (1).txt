@@ -1,0 +1,10 @@
+This is line 1 of the text file.
+Java programming is versatile and powerful.
+Learning Java is fun and rewarding.
+Object-oriented programming is a key concept in Java.
+Each Java program starts with a main method.
+Java supports multiple platforms.
+Variables store data that can change during execution.
+Methods in Java help organize code into reusable blocks.
+Loops allow for repetitive tasks to be automated.
+Exception handling makes Java programs robust.
